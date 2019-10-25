@@ -1,0 +1,26 @@
+.main {
+	background: pink;
+}
+.title {
+	color:blue;
+}
+.main-title {
+	color:red;
+	font-weight: bold;
+}
+.text {
+	color:yellow;
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 11px;
+}
+.text::first-letter {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: red;
+   }
+.list {
+	font-weight: bold;
+}
+.additional {
+	color: green;
+}
